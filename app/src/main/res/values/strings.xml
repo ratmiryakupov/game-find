@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Find</string>
+    <string name="title_activity_level31">Level3_1</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="start_timer">00:45</string>
+    <string name="start_health">3</string>
+    <string name="start">start</string>
+    <string name="start_game">Start Game</string>
+    <string name="more_health">More Health</string>
+    <string name="time_over">Time Over</string>
+    <string name="dialog_win">You win!!!</string>
+    <string name="dialog_lose">Game Over</string>
+    <string name="new_game">New Game</string>
+    <string name="score">Score: </string>
+    <string name="exit">Exit</string>
+    <string name="restart">Restart</string>
+    <string name="nextLvl">Next</string>
+    <string name="goodbye">Goodbye</string>
+    <string name="congratulation">Congratulation</string>
+    <string name="totalScore">Total Score: </string>
+</resources>
